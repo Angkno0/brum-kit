@@ -1,0 +1,17 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.containder{
+    display: flex;
+    flex-direction: row;
+}
+
+.drum{
+    font-size: 2rem;
+}
+
